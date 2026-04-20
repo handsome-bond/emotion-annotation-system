@@ -1,0 +1,10 @@
+```text
+__pycache__/
+*.py[cod]
+*$py.class
+logs/
+temp/
+data/
+*.db
+.vscode/
+.idea/

@@ -1,0 +1,10 @@
+database:
+  path: "data/annotations.db"
+
+media:
+  supported_formats: [".mp3", ".wav", ".mp4"]
+
+annotation:
+  emotion_labels: ["高兴", "悲伤", "愤怒", "恐惧", "惊讶", "厌恶", "中性", "其他"]
+  intensity_levels: 5
+  segment_duration_sec: 10
